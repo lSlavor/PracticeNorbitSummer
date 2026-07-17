@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTrackingApi", "TaskFinalMoneyManager\backend\TimeTrackingApi.csproj", "{B0E957EE-F1EB-4D6F-B5C8-DD626424D3DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{B6A4C32D-A944-4AEA-9114-70891750E049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A4C32D-A944-4AEA-9114-70891750E049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A4C32D-A944-4AEA-9114-70891750E049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E957EE-F1EB-4D6F-B5C8-DD626424D3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E957EE-F1EB-4D6F-B5C8-DD626424D3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E957EE-F1EB-4D6F-B5C8-DD626424D3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E957EE-F1EB-4D6F-B5C8-DD626424D3DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

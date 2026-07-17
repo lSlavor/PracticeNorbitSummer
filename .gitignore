@@ -32,3 +32,4 @@ packages/
 Thumbs.db
 
 *.csproj
+node_modules/
